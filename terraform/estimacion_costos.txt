@@ -1,0 +1,26 @@
+[1mProject:[22m main
+
+ [4mName[24m                               [4mMonthly Qty[24m  [4mUnit[24m            [4mMonthly Cost[24m   
+                                                                                
+ [1mazurerm_mssql_database.db[22m                                                      
+ [2m├─[22m Compute (FREE)                          730  hours                  $0.00   
+ [2m├─[22m Long-term retention (RA-GRS)  Monthly cost depends on usage: $0.05 per GB   
+ [2m└─[22m PITR backup storage (RA-GRS)  Monthly cost depends on usage: $0.20 per GB   
+                                                                                
+ [1mazurerm_service_plan.asp[22m                                                       
+ [2m└─[22m Instance usage (F1)                     730  hours                  $0.00   
+                                                                                
+[1m OVERALL TOTAL[22m                                                         $0.00 
+
+*Usage costs can be estimated by updating Infracost Cloud settings, see docs for other options.
+
+──────────────────────────────────
+5 cloud resources were detected:
+∙ 2 were estimated
+∙ 3 were free
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━┳━━━━━━━━━━━━┓
+┃ Project                                            ┃ Baseline cost ┃ Usage cost* ┃ Total cost ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╋━━━━━━━━━━━━━━━╋━━━━━━━━━━━━━╋━━━━━━━━━━━━┫
+┃ main                                               ┃         $0.00 ┃           - ┃      $0.00 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━┻━━━━━━━━━━━━┛
